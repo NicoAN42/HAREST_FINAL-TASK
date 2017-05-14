@@ -1,7 +1,15 @@
 [
     {
+        "merged": "D:\\android\\bismillah\\HAREST_FINAL-TASK_privateAssignment\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "D:\\android\\bismillah\\HAREST_FINAL-TASK_privateAssignment\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
         "merged": "E:\\zakram\\HAREST\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
         "source": "E:\\zakram\\HAREST\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\android\\bismillah\\HAREST_FINAL-TASK_privateAssignment\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "D:\\android\\bismillah\\HAREST_FINAL-TASK_privateAssignment\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_tint_default.xml"
     },
     {
         "merged": "E:\\zakram\\HAREST\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
@@ -12,12 +20,24 @@
         "source": "E:\\zakram\\HAREST\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_tint_default.xml"
     },
     {
+        "merged": "D:\\android\\bismillah\\HAREST_FINAL-TASK_privateAssignment\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "D:\\android\\bismillah\\HAREST_FINAL-TASK_privateAssignment\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
         "merged": "E:\\zakram\\HAREST\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
         "source": "E:\\zakram\\HAREST\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
         "merged": "E:\\zakram\\HAREST\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
         "source": "E:\\zakram\\HAREST\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\android\\bismillah\\HAREST_FINAL-TASK_privateAssignment\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "D:\\android\\bismillah\\HAREST_FINAL-TASK_privateAssignment\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\android\\bismillah\\HAREST_FINAL-TASK_privateAssignment\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "D:\\android\\bismillah\\HAREST_FINAL-TASK_privateAssignment\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_tint_seek_thumb.xml"
     },
     {
         "merged": "E:\\zakram\\HAREST\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
@@ -36,11 +56,35 @@
         "source": "E:\\zakram\\HAREST\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\color-v23\\design_tint_password_toggle.xml"
     },
     {
+        "merged": "D:\\android\\bismillah\\HAREST_FINAL-TASK_privateAssignment\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "D:\\android\\bismillah\\HAREST_FINAL-TASK_privateAssignment\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
         "merged": "E:\\zakram\\HAREST\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
         "source": "E:\\zakram\\HAREST\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "E:\\zakram\\HAREST\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
         "source": "E:\\zakram\\HAREST\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\android\\bismillah\\HAREST_FINAL-TASK_privateAssignment\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "D:\\android\\bismillah\\HAREST_FINAL-TASK_privateAssignment\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\android\\bismillah\\HAREST_FINAL-TASK_privateAssignment\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "D:\\android\\bismillah\\HAREST_FINAL-TASK_privateAssignment\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "D:\\android\\bismillah\\HAREST_FINAL-TASK_privateAssignment\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "D:\\android\\bismillah\\HAREST_FINAL-TASK_privateAssignment\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\android\\bismillah\\HAREST_FINAL-TASK_privateAssignment\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "D:\\android\\bismillah\\HAREST_FINAL-TASK_privateAssignment\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\android\\bismillah\\HAREST_FINAL-TASK_privateAssignment\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "D:\\android\\bismillah\\HAREST_FINAL-TASK_privateAssignment\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\color-v23\\design_tint_password_toggle.xml"
     }
 ]

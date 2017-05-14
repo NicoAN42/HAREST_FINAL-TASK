@@ -14,7 +14,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import android.widget.TextView;
+import id.sch.smktelkom_mlg.privateassignment.xirpl219.harest.fragment.NowFragment;
+import id.sch.smktelkom_mlg.privateassignment.xirpl219.harest.fragment.SavedFragment;
+import id.sch.smktelkom_mlg.privateassignment.xirpl219.harest.fragment.SoonFragment;
 
 public class MainActivity extends AppCompatActivity {
     /**

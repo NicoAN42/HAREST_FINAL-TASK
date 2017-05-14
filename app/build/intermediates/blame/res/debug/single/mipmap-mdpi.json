@@ -1,7 +1,15 @@
 [
     {
+        "merged": "D:\\android\\bismillah\\HAREST_FINAL-TASK_privateAssignment\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\android\\bismillah\\HAREST_FINAL-TASK_privateAssignment\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
         "merged": "E:\\zakram\\HAREST\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
         "source": "E:\\zakram\\HAREST\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\bismillah\\HAREST_FINAL-TASK_privateAssignment\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "D:\\android\\bismillah\\HAREST_FINAL-TASK_privateAssignment\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
         "merged": "E:\\zakram\\HAREST\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",

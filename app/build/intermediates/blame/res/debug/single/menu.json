@@ -2,5 +2,9 @@
     {
         "merged": "E:\\zakram\\HAREST\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
         "source": "E:\\zakram\\HAREST\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\android\\bismillah\\HAREST_FINAL-TASK_privateAssignment\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\android\\bismillah\\HAREST_FINAL-TASK_privateAssignment\\app\\src\\main\\res\\menu\\menu_main.xml"
     }
 ]
