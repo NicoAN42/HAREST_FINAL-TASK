@@ -23,15 +23,16 @@
 + SQLite
 
 ## Deskripsi
-+
++ Aplikasi ini dapat membantu kita untuk melihat detail dari film-film yang berkelas dunia. Dalam aplikasi ini disediakan fitur untuk melihat Film dengan rating tertinggi menurut voting di seluruh dunia , kemudian juga ada list untuk film yang sekarang sedang tayang , serta adanya film yang akan release ke depannya. Aplikasi HAREST ini terbilang mudah digunakan karena desain yang simple dan free.
 
 ## Kelebihan
-+
++ Free
+- Mudah digunakan
 
 ## Kekurangan
-+
++ Aplikasi ini masih terbatas dari desainnya dan untuk penyimpanan datanya
 
 ## Another Library
-+
++ Butter Knife
 
 ## Screenshot
